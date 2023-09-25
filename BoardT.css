@@ -1,0 +1,202 @@
+Body 
+{
+Width:600px;
+background-image: url("https://i.pinimg.com/474x/d2/0f/ea/d20fea07c7646458c81765b7f0b9fedd.jpg");
+Background-size:300px;
+margin-left: 25%;
+margin-right: 10%;
+Background-attachment:fixed;
+
+}
+
+div#rose
+{
+position: -webkit-sticky;
+Position:sticky;
+Top:-1px;
+Width:740px;
+Height:40px;
+Margin-left:-19px;
+Margin-top:-5px;
+Margin-bottom:0px;
+Background-image: url("https://64.media.tumblr.com/bce4ed9f70af65aeab32c1462feb63e5/07de0c8c7aaadd64-0b/s250x400/5f7746047a6fd80213601c8d66f2494f505ca099.gifv");
+Background-repeat: repeat-x;
+Z-index:2;
+}
+
+
+Main
+{
+Background-image: url("https://media4.giphy.com/media/l3V0HEiQoSPsfkity/giphy.gif");
+Width: 700px;
+Height: 1800px;
+margin-left: 0px;
+margin-right: 0px;
+Padding:0 20px 0 20px;
+Margin-top:40px;
+Margin-bottom:4000px;
+Border: ridge #ffa6f6 20px;
+Position:scroll;
+}
+
+
+h1
+{
+Color:white;
+Background-image: url("https://media1.giphy.com/media/xThuW9zh3xNc4uGbu0/200w.webp");
+Border: dashed 2.5px #e100ff;
+Width:300px;
+Text-align:center;
+Padding: 2px 20px 2px 20px ;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+
+p
+{
+color:#f716b4;
+Background-color: white;
+Text-align:center;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#small
+{
+Width:100px;
+
+}
+
+Img
+{
+Margin: 0 260px 0 260px;
+Border: solid white 5px;
+Height:200px;
+Width:200px;
+Border-radius: 0 25px 0 25px;
+
+}
+
+Button
+{
+Color:white;
+Background-color:#ff00ea;
+Width:200px;
+Height:100px;
+Margin: 0 200px 20px 270px;
+
+}
+
+
+
+#pink:link, #pink:visited
+{
+Margin: 10px 200px 0 250px;
+Color:white;
+Border: outset gray 3px;
+Background-color:#ff00ea;
+Text-decoration: none;
+Padding: 45px 50px;
+display: inline-block;
+}
+
+#pink:hover 
+{
+Color:#00ff11;
+Background-color:blue;
+}
+
+#pink:active
+{
+Color:#00ff11;
+Background-color:blue;
+Border:inset gray 3px;
+}
+
+
+
+#panties:link , #panties:visited
+{
+Color:transparent;
+Background-image:url("https://i.pinimg.com/564x/a4/a8/51/a4a8517b544724aab264beeee8b6eca3.jpg");
+Background-size:cover;
+Padding: 100px;
+Border: solid white 5px;
+Border-radius: 0 25px 0 25px;
+Width:6px;
+Height:25px;
+Display: inline-block;
+Margin: 10px 200px 0 260px;
+
+}
+
+#panties:hover, #panties:active
+{
+Color: transparent;
+Background-image:url("https://media1.giphy.com/media/3o7buijTqhjxjbEqjK/200w.webp");
+Background-image: cover;
+}
+
+.blinks
+{
+Width:200px;
+Height:26px;
+Border:none;
+Border-radius:0px;
+}
+
+
+div#ad
+{
+Width:700px;
+Height:500px;
+Background-image: linear-gradient(pink, #5cfffc, #002aff);
+Margin:20px auto 0; auto;
+Position:relative;
+
+}
+div#blank
+{
+Position:absolute;
+Top:350px;
+Right:-200px;
+Rotate:-10deg;
+}
+
+.fishy:hover
+{
+Opacity:0.7;
+}
+
+H2
+{
+Font-size:50px;
+Margin: 0 0 0 20px;
+Color:#ff00fb;
+Font-family:cursive;
+}
+
+#text
+{
+Position:absolute;
+Top:20px;
+Right:50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
